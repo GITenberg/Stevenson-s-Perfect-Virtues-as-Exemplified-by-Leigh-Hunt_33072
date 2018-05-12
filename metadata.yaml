@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36189'
     url: http://www.gutenberg.org/2009/agents/36189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33072#Stevenson-s-Perfect-Virtues-as-Exemplified-by-Leigh-Hunt
 gutenberg_issued: '2010-07-04'
 gutenberg_type: Text
 identifiers:
